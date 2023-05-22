@@ -9,3 +9,14 @@ C:\Users\foi.LABOS\Desktop\lab\EvaluationManager12\EvaluationManager12\obj\Debug
 C:\Users\foi.LABOS\Desktop\lab\EvaluationManager12\EvaluationManager12\obj\Debug\EvaluationManager12.csproj.CoreCompileInputs.cache
 C:\Users\foi.LABOS\Desktop\lab\EvaluationManager12\EvaluationManager12\obj\Debug\EvaluationManager12.exe
 C:\Users\foi.LABOS\Desktop\lab\EvaluationManager12\EvaluationManager12\obj\Debug\EvaluationManager12.pdb
+C:\Users\Home-PC\Source\Repos\MihaelK\EvaluationManager12\EvaluationManager12\bin\Debug\EvaluationManager12.exe.config
+C:\Users\Home-PC\Source\Repos\MihaelK\EvaluationManager12\EvaluationManager12\bin\Debug\EvaluationManager12.exe
+C:\Users\Home-PC\Source\Repos\MihaelK\EvaluationManager12\EvaluationManager12\bin\Debug\EvaluationManager12.pdb
+C:\Users\Home-PC\Source\Repos\MihaelK\EvaluationManager12\EvaluationManager12\obj\Debug\EvaluationManager12.csproj.AssemblyReference.cache
+C:\Users\Home-PC\Source\Repos\MihaelK\EvaluationManager12\EvaluationManager12\obj\Debug\EvaluationManager12.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home-PC\Source\Repos\MihaelK\EvaluationManager12\EvaluationManager12\obj\Debug\EvaluationManager12.FrmLogin.resources
+C:\Users\Home-PC\Source\Repos\MihaelK\EvaluationManager12\EvaluationManager12\obj\Debug\EvaluationManager12.Properties.Resources.resources
+C:\Users\Home-PC\Source\Repos\MihaelK\EvaluationManager12\EvaluationManager12\obj\Debug\EvaluationManager12.csproj.GenerateResource.cache
+C:\Users\Home-PC\Source\Repos\MihaelK\EvaluationManager12\EvaluationManager12\obj\Debug\EvaluationManager12.csproj.CoreCompileInputs.cache
+C:\Users\Home-PC\Source\Repos\MihaelK\EvaluationManager12\EvaluationManager12\obj\Debug\EvaluationManager12.exe
+C:\Users\Home-PC\Source\Repos\MihaelK\EvaluationManager12\EvaluationManager12\obj\Debug\EvaluationManager12.pdb

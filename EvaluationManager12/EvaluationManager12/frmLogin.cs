@@ -37,5 +37,9 @@ namespace EvaluationManager12 {
                 }
             }
         }
+
+        private void FrmLogin_Load(object sender, EventArgs e) {
+
+        }
     }
 }
